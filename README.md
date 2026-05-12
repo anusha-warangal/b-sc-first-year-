@@ -1,1 +1,1 @@
-🚀 Goal: Software Developer | #100DaysOfCode Day 5
+🚀 Goal: Software Developer | #100DaysOfCode Day 6
