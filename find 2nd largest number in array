@@ -1,0 +1,34 @@
+#include <stdio.h>
+
+int main() {
+    int arr[] = {10, 5, 20, 8, 20, 15};
+    int n = 6; // array size
+    int largest, secondLargest;
+
+    // Step 1: First largest find chey
+    largest = arr[0];
+    for(int i = 1; i < n; i++) {
+        if(arr[i] > largest) {
+            largest = arr[i];
+        }
+    }
+
+    // Step 2: Second largest find chey
+    secondLargest = -1; // assume chey
+    for(int i = 0; i < n; i++) {
+        if(arr[i]!= largest) { // largest kaakudadhu
+            if(secondLargest == -1 || arr[i] > secondLargest) {
+                secondLargest = arr[i];
+            }
+        }
+    }
+
+    if(secondLargest == -1) {
+        printf("Second largest ledu. Anni numbers same.\n");
+    } else {
+        printf("Largest = %d\n", largest);
+        printf("Second Largest = %d\n", secondLargest);
+    }
+
+    return 0;
+}
