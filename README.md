@@ -1,36 +1,22 @@
-# B.Sc First Year Coding Challenge
+# B.Sc First Year - C & Python Programs 🎓
 
-## About
-This repository contains my daily programming practice during my B.Sc first year.
+## 📌 About
+Hi, I'm Anusha from Warangal. B.Sc Computer Science student.  
+This repo has my C & Python practice programs from 1st year.
 
-## Challenge Goal
-Complete 100 days of coding and improve programming skills.
+## 📂 C Programs List
+| S.No | File Name | Topic |
+| --- | --- | --- |
+| 1 | `Calculator.c` | Switch case, Functions |
+| 2 | `array_max.c` | Arrays, Loops |
+| 3 | `array_sort.c` | Bubble Sort Algorithm |
+| 4 | `armstrong.c` | While Loop, Math Logic |
+| 5 | `array_search` | Linear Search |
+| 6 | `Password_checker.c` | Strings, Conditions |
+| 7 | `Student_record_management.C` | Structures |
+| 8 | `File handling+structures.c` | File Handling in C |
 
-## Progress
+## 🎯 2026 Goal
+Complete C Programming → Learn Python for Data Science
 
-| Day | Status |
-|------|---------|
-| Day 1 | Completed |
-| Day 2 | Completed |
-| Day 3 | Completed |
-| Day 4 | Completed |
-| Day 5 | Completed |
-| Day 6 | Completed |
-| Day 7 | Completed |
-| Day 8 | Completed |
-| Day 9 | Completed |
-| Day 10 | Completed |
-| Day 11 | Completed |
-
-## Languages Used
-- C Programming
-- Python
-
-## Objectives
-- Improve problem-solving skills
-- Learn programming fundamentals
-- Build consistency
-
-## Author
-**Bikshapathi**
-GitHub: anusha-warangal
+**Anusha Warangal** | B.Sc CS
